@@ -28,5 +28,3 @@ export function getFirebaseConfig() {
     return config;
   }
 }
-
-const app = initializeApp(config);
